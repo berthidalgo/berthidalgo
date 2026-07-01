@@ -37,6 +37,7 @@
 | Proyecto | Qué es | Stack |
 |:--------:|:-------|:------|
 | 🤖 **[WhatsApp Sales OS](https://github.com/berthidalgo/whatsapp-sales-backend)** | Agente de IA que califica leads (edtech LATAM) | Node · Fastify · Prisma · Gemini · Whisper |
+| 📈 **[TradeHub Engine](https://github.com/berthidalgo/tradehub-engine)** | Motor de trading e inteligencia de mercado (+250 commits) | Python |
 | 💧 **[ISHT](https://github.com/berthidalgo/isht-webapp)** | Web app que proyecta con ML la seguridad hídrica del Perú | Full-stack · ML |
 | 🌎 **[Perú Exporta CRM](https://github.com/berthidalgo/peru-exporta-crm)** | CRM para exportadores peruanos | JavaScript |
 | 💰 **[Mis Finanzas](https://github.com/berthidalgo/mis-finanzas)** | App de finanzas personales | Python |
