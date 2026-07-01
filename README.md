@@ -30,15 +30,6 @@
 
 <br/>
 
-<h3 align="center">📊 Estadísticas</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berthidalgo&show_icons=true&hide_border=true&theme=github_dark" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berthidalgo&layout=compact&hide_border=true&theme=github_dark" alt="top langs"/>
-</p>
-
-<br/>
-
 <h3 align="center">🚀 Proyectos destacados</h3>
 
 <div align="center">
