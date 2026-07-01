@@ -1,7 +1,7 @@
 <h1 align="center">Albert Hidalgo</h1>
 
 <p align="center">
-  Full-Stack Developer · Data &amp; AI · Fundador de <b>HiDATA</b> 🇵🇪
+  Full-Stack Developer · Data
 </p>
 
 <p align="center">
@@ -16,8 +16,7 @@
 <br/>
 
 <p align="center">
-  Construyo productos de <b>datos y automatización con IA</b> — fintech, e-commerce y civic-tech.<br/>
-  Volví al desarrollo con una misión: crear productos reales que resuelvan problemas reales.
+  Crear productos reales que resuelvan problemas reales.
 </p>
 
 <br/>
