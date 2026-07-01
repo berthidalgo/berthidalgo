@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-  crear productos reales que resuelvan problemas reales.
+  Crear productos reales que resuelvan problemas reales.
 </p>
 
 <br/>
