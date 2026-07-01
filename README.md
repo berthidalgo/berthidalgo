@@ -46,5 +46,5 @@
 <br/>
 
 <p align="center">
-  <sub>📫 albert.hidata@gmail.com · En modo build.</sub>
+  <sub>📫 albert.hidata@gmail.com </sub>
 </p>
