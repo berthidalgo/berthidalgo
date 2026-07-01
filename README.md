@@ -1,7 +1,7 @@
 <h1 align="center">Albert Hidalgo</h1>
 
 <p align="center">
-  Full-Stack Developer · Data
+  Full-Stack Developer · Data &amp; AI · Fundador de <b>HiDATA</b> 🇵🇪
 </p>
 
 <p align="center">
@@ -16,7 +16,8 @@
 <br/>
 
 <p align="center">
-  Crear productos reales que resuelvan problemas reales.
+  Construyo productos de <b>datos y automatización con IA</b> — fintech, e-commerce y civic-tech.<br/>
+  Volví al desarrollo con una misión: crear productos reales que resuelvan problemas reales.
 </p>
 
 <br/>
@@ -45,6 +46,18 @@
 
 <br/>
 
+<h3 align="center">🐍 Contribuciones</h3>
+
 <p align="center">
-  <sub>📫 albert.hidata@gmail.com </sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berthidalgo/berthidalgo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berthidalgo/berthidalgo/output/github-snake.svg" />
+    <img alt="snake animation de las contribuciones de berthidalgo" src="https://raw.githubusercontent.com/berthidalgo/berthidalgo/output/github-snake.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>📫 albert.hidata@gmail.com · En modo build.</sub>
 </p>
