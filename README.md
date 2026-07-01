@@ -46,18 +46,6 @@
 
 <br/>
 
-<h3 align="center">🐍 Contribuciones</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berthidalgo/berthidalgo/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berthidalgo/berthidalgo/output/github-snake.svg" />
-    <img alt="snake animation de las contribuciones de berthidalgo" src="https://raw.githubusercontent.com/berthidalgo/berthidalgo/output/github-snake.svg" />
-  </picture>
-</p>
-
-<br/>
-
 <p align="center">
   <sub>📫 albert.hidata@gmail.com · En modo build.</sub>
 </p>
